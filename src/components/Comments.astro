@@ -31,17 +31,5 @@ const fullUrl = pageUrl || Astro.url.href;
     reply_btn: 'Reply',
     sending: 'Sending...',
   };
-  // Prevent auto-init, we'll do it manually after DOM ready
-  window.CUSDIS_PREVENT_INITIAL_RENDER = true;
 </script>
-<script is:inline src="https://comments.natinternet.com/js/cusdis.umd.js"></script>
-<script is:inline>
-  // Initialize after DOM is ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() {
-      if (window.CUSDIS) window.CUSDIS.initial();
-    });
-  } else {
-    if (window.CUSDIS) window.CUSDIS.initial();
-  }
-</script>
+<script is:inline src="https://comments.natinternet.com/js/cusdis.umd.js" defer></script>
