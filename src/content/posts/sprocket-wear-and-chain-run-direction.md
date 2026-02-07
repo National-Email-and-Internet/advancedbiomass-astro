@@ -96,6 +96,6 @@ Paul Janzé has more than 30 years of experience in engineering design, project 
 
 He has a keen interest in technologies which recover and utilize waste materials and convert them into useful products.  Paul’s specialties are fibre flow analysis and mass balances, conceptual design, process optimization and designing novel solutions to complex processing and handling problems.
 
-Paul can be reached at: _Advanced Biomass Consulting Inc._, tel: 1-604-505-5857, or [pjanze@telus.net](mailto:pjanze@telus.net)
+Paul can be reached at: _Advanced Biomass Consulting Inc._, or [pjanze@telus.net](mailto:pjanze@telus.net)
 
 ![](/images/H-type-chain-travel-direction-IAnson-1-792x1024.jpg)

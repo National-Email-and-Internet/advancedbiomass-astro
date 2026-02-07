@@ -55,4 +55,4 @@ For long-term, on-going biomass pile inventory control, read the following artic
 
 Copywrite © 30 November 2014
 
-Paul can be reached at: _Advanced Biomass Consulting Inc_., tel: 604-505-5857, email: pjanze@telus.net
+Paul can be reached at: _Advanced Biomass Consulting Inc_., email: pjanze@telus.net
