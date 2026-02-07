@@ -8,6 +8,9 @@ interface Props {
 const { pageId, pageTitle, pageUrl } = Astro.props;
 const CUSDIS_HOST = "https://comments.natinternet.com";
 const APP_ID = "62274c3e-e32b-4dcc-a63f-cfbe2ef9959b";
+const MOSPARO_HOST = "https://spam.natinternet.com";
+const MOSPARO_UUID = "319fd92a-62e9-4df7-8dec-40b044dc6e71";
+const MOSPARO_PUBLIC_KEY = "uY_Zb-olcIKsjVD4nooRKNj96S5Xm30-9DTfGlklfzM";
 const fullUrl = pageUrl || Astro.url.href;
 ---
 
@@ -20,6 +23,9 @@ const fullUrl = pageUrl || Astro.url.href;
   data-theme="light"
 ></div>
 
+<!-- Mosparo container for validation -->
+<div id="mosparo-box" style="display:none;"></div>
+
 <script is:inline>
   window.CUSDIS_LOCALE = {
     powered_by: 'Comments',
@@ -31,5 +37,86 @@ const fullUrl = pageUrl || Astro.url.href;
     reply_btn: 'Reply',
     sending: 'Sending...',
   };
+  window.CUSDIS_PREVENT_INITIAL_RENDER = true;
 </script>
+
+<!-- Mosparo Resources -->
+<link href="https://spam.natinternet.com/resources/319fd92a-62e9-4df7-8dec-40b044dc6e71.css" rel="stylesheet">
+<script is:inline src="https://spam.natinternet.com/build/mosparo-frontend.js" defer></script>
+
+<!-- Cusdis SDK -->
 <script is:inline src="https://comments.natinternet.com/js/cusdis.umd.js" defer></script>
+
+<script is:inline>
+  let mosparoInstance = null;
+  
+  // Initialize Mosparo
+  function initMosparo() {
+    if (typeof mosparo !== 'undefined' && !mosparoInstance) {
+      mosparoInstance = new mosparo(
+        'mosparo-box',
+        'https://spam.natinternet.com',
+        '319fd92a-62e9-4df7-8dec-40b044dc6e71',
+        'uY_Zb-olcIKsjVD4nooRKNj96S5Xm30-9DTfGlklfzM',
+        {
+          loadCssResource: false,
+          onCheckForm: function(valid) {
+            window._mosparoValid = valid;
+          }
+        }
+      );
+    }
+  }
+
+  // Watch for Cusdis form creation and attach spam protection
+  function attachSpamProtection() {
+    const observer = new MutationObserver(function(mutations) {
+      const form = document.querySelector('#cusdis_thread form');
+      if (form && !form.dataset.mosparoAttached) {
+        form.dataset.mosparoAttached = 'true';
+        
+        // Add Mosparo validation on submit
+        form.addEventListener('submit', function(e) {
+          if (!window._mosparoValid) {
+            if (mosparoInstance) {
+              mosparoInstance.checkForm();
+            }
+          }
+        });
+        
+        // Move mosparo box inside form
+        const mosparoBox = document.getElementById('mosparo-box');
+        if (mosparoBox) {
+          mosparoBox.style.display = 'block';
+          mosparoBox.style.marginTop = '10px';
+          const submitBtn = form.querySelector('button[type="submit"]');
+          if (submitBtn) {
+            submitBtn.parentNode.insertBefore(mosparoBox, submitBtn);
+          }
+        }
+        
+        observer.disconnect();
+      }
+    });
+    
+    observer.observe(document.getElementById('cusdis_thread'), {
+      childList: true,
+      subtree: true
+    });
+  }
+
+  // Initialize everything when DOM is ready
+  document.addEventListener('DOMContentLoaded', function() {
+    initMosparo();
+    if (window.CUSDIS) {
+      window.CUSDIS.initial();
+    }
+    attachSpamProtection();
+  });
+</script>
+
+<style>
+  #mosparo-box {
+    margin: 10px 0;
+  }
+</style>
