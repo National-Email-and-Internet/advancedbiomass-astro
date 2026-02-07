@@ -64,10 +64,10 @@ Figure 3 – Trackmobile for Moving Railcars
 
 Moving Railcars When Being Loaded – Most railcar loading stations utilize stationary equipment, which necessitates moving the railcar under the loading point, in order to distribute the chip load along the length of the car.  There are several methods of moving railcars to and from the loading station and moving them back and forth under the loading mechanism:
 
--   Railcar pullers consisting of wire rope winches.
--   Front-end loaders with railcar knuckle attachments.
--   Electro-hydraulic railcar positioners.
--   Railcar movers such as \`Shuttlewagons’ or \`Trackmobiles’.
+*   Railcar pullers consisting of wire rope winches.
+*   Front-end loaders with railcar knuckle attachments.
+*   Electro-hydraulic railcar positioners.
+*   Railcar movers such as \`Shuttlewagons’ or \`Trackmobiles’.
 
 **Chip Railcar Unloading**
 
@@ -91,11 +91,11 @@ Figure 5 – Combination Truck / Railcar End-Tipper with Digger
 
 End-tippers – Railcar end-tippers were installed in several western mills in the 60’s and 70’s, when chip transport by rail became popular.  The end-tipper consists of a platform onto which the railcar is tipped on end to 63° to enable the chips to slide out of the end door into a receiving hopper.  The end-tipper consists of:
 
--   A drive-over tipper deck with safety hoops, a movable back-stop and multi-stage hydraulic lift cylinders.
--   A receiving hopper, and a drive-over bridge with hydraulic lift cylinders.
--   Some form of railcar vibrator.
--   Possibly an integral railcar scale.
--   A hydraulic power unit
+*   A drive-over tipper deck with safety hoops, a movable back-stop and multi-stage hydraulic lift cylinders.
+*   A receiving hopper, and a drive-over bridge with hydraulic lift cylinders.
+*   Some form of railcar vibrator.
+*   Possibly an integral railcar scale.
+*   A hydraulic power unit
 
 A railcar mover is utilized to move a railcar onto the tipper deck and up against the backstop.  The operator replaces the steel door wedges with wooden wedges, opens the railcar bridge over the receiving hopper; and then proceeds to raise the tipper deck.
 

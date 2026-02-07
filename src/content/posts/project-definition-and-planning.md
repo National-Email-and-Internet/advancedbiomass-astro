@@ -14,16 +14,16 @@ For a description of the steps that all projects go through from feasibility stu
 
 Generally, it is recommended that all projects are set up to go through the following formalized development phases:
 
--   Pre-feasibility phase where a market opportunity is identified and rough costs and possible profits established.
--   Feasibility study phase, which considers various alternatives with Class 40 order of magnitude budget(s).
--   Definition phase, which includes development of a selected concept and Class 25 budget.
--   Detail engineering phase with AFE grade Class 10 budget.
+*   Pre-feasibility phase where a market opportunity is identified and rough costs and possible profits established.
+*   Feasibility study phase, which considers various alternatives with Class 40 order of magnitude budget(s).
+*   Definition phase, which includes development of a selected concept and Class 25 budget.
+*   Detail engineering phase with AFE grade Class 10 budget.
 
 Implementation follows detail engineering, and includes:
 
--   Procurement and contracting.
--   Construction.
--   Commissioning and start-up.
+*   Procurement and contracting.
+*   Construction.
+*   Commissioning and start-up.
 
 During each project phase, more detail is added, which should lend clarity, enabling the project viability to be continually assessed.  Some companies have formal approval procedures and metrics or \`gates’ with milestones that every project must successfully pass through before being approved to proceed with the next project phase.  In this manner, project development costs are closely controlled and risk assessment is accurate and up-to-date. Such ‘front-end loaded’ (FEL) projects give the client confidence in the \`numbers’ and complete control of the project.
 
@@ -49,15 +49,15 @@ A clear organization chart should be prepared showing the various positions, inc
 
 Once a project has been awarded to a consultant engineer, one of the first tasks the engineer does is to visit the proposed plant site to meet with the client stakeholders / project team to discuss and confirm their specific requirements and objectives.  Topics covered during the kick-off meeting generally include the following:
 
--   Personnel introductions and roles, including client, consultant, other engineers, and sometimes key suppliers or contractors.
--   The client’s description of the project objectives and goals; potential alternatives; and a review of the study work completed to date.
--   Description of the project battery limits; i.e. – where the project starts and finishes.
--   Confirmation of the client’s expectations regarding the engineer’s responsibilities.
--   Description of communication protocols, reporting structure and organization chart(s).
--   Review of the proposed schedule with important milestone dates.
--   Review of the initial budget upon which the project economic progress will be measured.
--   Review of health, safety, and environmental requirements.
--   Confidentiality.
+*   Personnel introductions and roles, including client, consultant, other engineers, and sometimes key suppliers or contractors.
+*   The client’s description of the project objectives and goals; potential alternatives; and a review of the study work completed to date.
+*   Description of the project battery limits; i.e. – where the project starts and finishes.
+*   Confirmation of the client’s expectations regarding the engineer’s responsibilities.
+*   Description of communication protocols, reporting structure and organization chart(s).
+*   Review of the proposed schedule with important milestone dates.
+*   Review of the initial budget upon which the project economic progress will be measured.
+*   Review of health, safety, and environmental requirements.
+*   Confidentiality.
 
 The kick-off meeting minutes must be documented and distributed to the project team, as should all important meetings where decisions are made.
 
@@ -67,19 +67,19 @@ Often, the opportunity presented by the kick-off meeting at the plant site is ut
 
 Following is a list and description of the technical information that the engineer will likely require in order to do the definition study.
 
--   A description of the raw material to be handled.
--   A description of the target finished product.
--   Material flow rates.
--   A site plan (if existing).
--   General arrangement drawings of existing structures, systems and equipment.
--   Flow / Process and Control diagrams of existing systems that the new equipment will be tying into.
--   Location and details of existing process tie-in points.
--   Site drawing showing structures, underground services, fire protection systems, roads, railways, etc.
--   A geotechnical soils report, survey and topographical information, if available.
--   Plant Site / Mill Conditions.
--   A list of standard components that are to be used on the project (if known).
--   Location of the electrical room from which electrical power will be drawn (if existing).
--   Type of control system required; hard-wired, PLC, DCS.
+*   A description of the raw material to be handled.
+*   A description of the target finished product.
+*   Material flow rates.
+*   A site plan (if existing).
+*   General arrangement drawings of existing structures, systems and equipment.
+*   Flow / Process and Control diagrams of existing systems that the new equipment will be tying into.
+*   Location and details of existing process tie-in points.
+*   Site drawing showing structures, underground services, fire protection systems, roads, railways, etc.
+*   A geotechnical soils report, survey and topographical information, if available.
+*   Plant Site / Mill Conditions.
+*   A list of standard components that are to be used on the project (if known).
+*   Location of the electrical room from which electrical power will be drawn (if existing).
+*   Type of control system required; hard-wired, PLC, DCS.
 
 Normally the engineer will be unable to obtain all of this information immediately, but he can usually get enough information to get started with his work. And of course, if the project is a greenfield installation, then little of this information will be available unless the client is duplicating a mill he has elsewhere.
 
@@ -99,17 +99,17 @@ In some instances, the information won’t exist and the engineer will need to \
 
 The design basis memorandum (DBM) should be one of the first documents prepared by the engineer during the definition phase, as it sets down the basic design parameters for the project going forward and includes:
 
--   A description of the project.
--   Project objectives.
--   Type of project – metric or imperial.
--   Design criteria including:
-    -   Material information – A description of the material being handled, including material characteristics such as species and mix, material form and mix, basic density, bulk factor, bulk density, moisture content (MC), particle size distribution (PSD), contaminants, temperature, abrasiveness, corrosiveness, flow characteristics, angle of repose, angle of drain, etc.; also, proximate and ultimate data (if required and available).
-    -   Required throughput and process flows.
--   Basic design data and a general scope of work for all disciplines is required:
-    -   Civil / structural / architectural.
-    -   Mechanical / piping / HVAC.
-    -   Electrical / controls.
-    -   Transportation
+*   A description of the project.
+*   Project objectives.
+*   Type of project – metric or imperial.
+*   Design criteria including:
+    *   Material information – A description of the material being handled, including material characteristics such as species and mix, material form and mix, basic density, bulk factor, bulk density, moisture content (MC), particle size distribution (PSD), contaminants, temperature, abrasiveness, corrosiveness, flow characteristics, angle of repose, angle of drain, etc.; also, proximate and ultimate data (if required and available).
+    *   Required throughput and process flows.
+*   Basic design data and a general scope of work for all disciplines is required:
+    *   Civil / structural / architectural.
+    *   Mechanical / piping / HVAC.
+    *   Electrical / controls.
+    *   Transportation
 
 The DBM tends to be a \`living’ document with changes occurring throughout the engineering process as new information becomes available and the design is refined.
 
@@ -117,8 +117,8 @@ The DBM tends to be a \`living’ document with changes occurring throughout the
 
 Plant site conditions include information such as:
 
--   Plant location, elevation, seismic data, precipitation, ambient temperatures, wind data, motor power, control power, compressed air requirements, water specifications, etc.
--   Standard components that are to be used throughout the plant are often included in the plant conditions document, and include such items as: motors, gearboxes, bearings, belting, idlers, sprockets, RC chain, control devices, hydraulic components, MCC’s, switches, level devices, PLC’s, HMI’s, etc.
+*   Plant location, elevation, seismic data, precipitation, ambient temperatures, wind data, motor power, control power, compressed air requirements, water specifications, etc.
+*   Standard components that are to be used throughout the plant are often included in the plant conditions document, and include such items as: motors, gearboxes, bearings, belting, idlers, sprockets, RC chain, control devices, hydraulic components, MCC’s, switches, level devices, PLC’s, HMI’s, etc.
 
 Plant conditions are sometimes a stand-alone document, particularly if the plant is existing and already has such a document established.
 
@@ -180,13 +180,13 @@ Preliminary vendor information is usually required for concept development and c
 
 For a definition study, the technical specifications should be as brief as possible, but as a minimum, should contain the following:
 
--   A brief description of the project and how the specific equipment fits into the project, and a description of what the specific piece of equipment is to do.
--   Limits of supply, including a list of the required Vendor Supply components and a list of the excluded components.
--   Design criteria including a description of the material being handled / processed, with the target material characteristics and required flow rates.
--   Performance requirements.
--   Plant operating conditions and required standard components.
--   Equipment specifications / requirements for: mechanical, piping, structural, electrical and controls.
--   A list of the governing codes and standards that need to be met.
+*   A brief description of the project and how the specific equipment fits into the project, and a description of what the specific piece of equipment is to do.
+*   Limits of supply, including a list of the required Vendor Supply components and a list of the excluded components.
+*   Design criteria including a description of the material being handled / processed, with the target material characteristics and required flow rates.
+*   Performance requirements.
+*   Plant operating conditions and required standard components.
+*   Equipment specifications / requirements for: mechanical, piping, structural, electrical and controls.
+*   A list of the governing codes and standards that need to be met.
 
 ## 1.10  Requests for Quotations
 
@@ -194,20 +194,20 @@ Requests for quotations (RFQ’s) can be brief for definition studies, but shoul
 
 Instructions to Bidders
 
--   A clear statement of the RFQ requirements; i.e. – budget pricing +/-25%.
--   Response request; tender submission requirements and RFQ closing time.
--   Equipment delivery timing and location.
--   Pricing requirements; i.e. – validity, FOB, DDP, etc.
--   Warranty and performance guarantee requirements.
--   A list of information to be provided with the vendor’s bid package.
+*   A clear statement of the RFQ requirements; i.e. – budget pricing +/-25%.
+*   Response request; tender submission requirements and RFQ closing time.
+*   Equipment delivery timing and location.
+*   Pricing requirements; i.e. – validity, FOB, DDP, etc.
+*   Warranty and performance guarantee requirements.
+*   A list of information to be provided with the vendor’s bid package.
 
 Technical Documents
 
 The RFQ should contain relevant technical documents, including:
 
--   Technical specification and associated drawings.
--   Geotechnical information.
--   Plant / Mill Conditions.
+*   Technical specification and associated drawings.
+*   Geotechnical information.
+*   Plant / Mill Conditions.
 
 Note: Be careful to observe all non-disclosure agreements (NDA’s) when submitting RFQ’s.
 
@@ -215,11 +215,11 @@ Note: Be careful to observe all non-disclosure agreements (NDA’s) when submitt
 
 A preliminary master equipment schedule (MES) spreadsheet is usually developed during the definition phase, and includes a listing of all the equipment with such information as:
 
--   Equipment name and number – The client may have a pre-existing naming and numbering system.
--   Equipment description with capacity, etc.
--   Motor size and speed, and load factor.
--   Electricity voltage, phase and cycle.
--   Sometimes control devices are included in the MES.
+*   Equipment name and number – The client may have a pre-existing naming and numbering system.
+*   Equipment description with capacity, etc.
+*   Motor size and speed, and load factor.
+*   Electricity voltage, phase and cycle.
+*   Sometimes control devices are included in the MES.
 
 ![equipment-list-sample](/images/Equipment-List-Sample-300x194.jpg)
 
@@ -231,15 +231,15 @@ Later in the detail design phase of the project, a work breakdown structure (WBS
 
 A preliminary project schedule is developed during the definition phase. The schedule must consider:
 
--   The plant’s target start-up date – This is usually the best place to start when developing a preliminary project schedule. Then work backwards through the necessary implementation steps to arrive at a project start date and to determine the available time for tasks.
--   Commissioning period.
--   Construction period including all discipline work.
--   Equipment manufacturing and delivery times.
--   Procurement and contracting activities.
--   Detail engineering for all disciplines.
--   Definition engineering.
--   Pertinent required client milestones regarding approvals, permitting, financing, etc.
--   Project start date.
+*   The plant’s target start-up date – This is usually the best place to start when developing a preliminary project schedule. Then work backwards through the necessary implementation steps to arrive at a project start date and to determine the available time for tasks.
+*   Commissioning period.
+*   Construction period including all discipline work.
+*   Equipment manufacturing and delivery times.
+*   Procurement and contracting activities.
+*   Detail engineering for all disciplines.
+*   Definition engineering.
+*   Pertinent required client milestones regarding approvals, permitting, financing, etc.
+*   Project start date.
 
 Conflicts will occur that could make either the project start date or the plant start-up date unrealistic; however, many of the above activities can overlap to shorten the overall project delivery time.
 
@@ -259,25 +259,25 @@ Direct Costs
 
 Direct costs are \`hard’ project costs for each item, which include the following for each discipline:
 
--   Direct purchase price of goods or service.
--   Installation contractor purchases, including concrete, steel, tool rentals, sub-contractors.
--   Contractor installation labour.
+*   Direct purchase price of goods or service.
+*   Installation contractor purchases, including concrete, steel, tool rentals, sub-contractors.
+*   Contractor installation labour.
 
 Indirect Costs
 
 Indirect costs are \`soft’ project costs that are not included in direct costs and could include allowances for such things as:
 
--   Engineering.
--   Owner’s project development costs.
--   Construction management.
--   Construction living out allowance (LOA) and travel.
--   Temporary construction facilities.
--   Construction insurance.
--   Vendor equipment erection supervision.
--   Commissioning and start-up assistance and training.
--   Premium labour costs (overtime).
--   Spare parts.
--   Taxes and Duties.
+*   Engineering.
+*   Owner’s project development costs.
+*   Construction management.
+*   Construction living out allowance (LOA) and travel.
+*   Temporary construction facilities.
+*   Construction insurance.
+*   Vendor equipment erection supervision.
+*   Commissioning and start-up assistance and training.
+*   Premium labour costs (overtime).
+*   Spare parts.
+*   Taxes and Duties.
 
 The amount included for indirect costs depends upon the client’s company policies, and the items included can vary substantially, depending upon the client.  An average allowance to use is 25% of the total direct costs.
 
@@ -313,12 +313,12 @@ Figure 9 – Sample Order of Magnitude Capital Cost Estimate
 
 A project execution plan should be developed during the definition phase for the project going forward defining:
 
--   The type of project, i.e. – conventional; engineer, procure and construct (EPC) or design-build; or engineering, procurement and construction management (EPCM).
--   A list of the required \`actors’ in the project and their roles and responsibilities. i.e. – client, engineers, vendors, contractors.
--   The steps necessary to efficiently implement the project.
--   The project schedule.
--   The engineering requirements.
--   The procurement and contracting tasks.
+*   The type of project, i.e. – conventional; engineer, procure and construct (EPC) or design-build; or engineering, procurement and construction management (EPCM).
+*   A list of the required \`actors’ in the project and their roles and responsibilities. i.e. – client, engineers, vendors, contractors.
+*   The steps necessary to efficiently implement the project.
+*   The project schedule.
+*   The engineering requirements.
+*   The procurement and contracting tasks.
 
 ## 1.15  Study Report
 
@@ -332,22 +332,22 @@ Detail engineering follows the definition phase. During detail engineering, all 
 
 Detail engineering includes:
 
--   Preparing a detailed project schedule.
--   Confirming process design and calculations.
--   Preparing general arrangement drawings.
--   Preparing detail drawings sufficient for firm-price procurement and contracting purposes (all disciplines).
--   Preparing technical specifications for equipment purchases.
--   Reviewing vendor information.
--   Preparing detail design drawings based on the selected vendor’s equipment.
--   Preparing scopes of work for civil / structural contracts, mechanical / piping contracts, and electrical / instrumentation contracts.
--   Writing a process functional specification (process narrative) and a control narrative defining the process control requirements.
+*   Preparing a detailed project schedule.
+*   Confirming process design and calculations.
+*   Preparing general arrangement drawings.
+*   Preparing detail drawings sufficient for firm-price procurement and contracting purposes (all disciplines).
+*   Preparing technical specifications for equipment purchases.
+*   Reviewing vendor information.
+*   Preparing detail design drawings based on the selected vendor’s equipment.
+*   Preparing scopes of work for civil / structural contracts, mechanical / piping contracts, and electrical / instrumentation contracts.
+*   Writing a process functional specification (process narrative) and a control narrative defining the process control requirements.
 
 Often more precise information is required during detail engineering, including:
 
--   Detailed surveys of specific locations.
--   Geotechnical work including taking soil samples.
--   Taking field measurements of existing equipment.
--   Inspections of existing electrical and control systems.
+*   Detailed surveys of specific locations.
+*   Geotechnical work including taking soil samples.
+*   Taking field measurements of existing equipment.
+*   Inspections of existing electrical and control systems.
 
 Regular drawing issues should be made to keep everyone informed and two design review meetings would be held at the 25% and 50% design completion points; the purpose being to give the client the opportunity to make changes before the detail design progresses too far.
 
@@ -361,10 +361,10 @@ Other Activities
 
 The following items are normally done during the detail engineering phase:
 
--   Procurement activities including issuing price inquiries, preparing bid evaluations, negotiating and awarding purchases, expediting deliveries (These can be done by the client, the engineer or the contractor).
--   Contracting activities including preparing contract documents, issuing the contracts for tender, preparing comparisons of tender, negotiating and awarding contracts (usually done by the client or engineer).
--   Often permits are required; these are normally prepared and submitted by the client, but he usually needs project specific information provided by the engineer, in order to do so.
--   Establishing an accounting grade, Class 10 CCE.
+*   Procurement activities including issuing price inquiries, preparing bid evaluations, negotiating and awarding purchases, expediting deliveries (These can be done by the client, the engineer or the contractor).
+*   Contracting activities including preparing contract documents, issuing the contracts for tender, preparing comparisons of tender, negotiating and awarding contracts (usually done by the client or engineer).
+*   Often permits are required; these are normally prepared and submitted by the client, but he usually needs project specific information provided by the engineer, in order to do so.
+*   Establishing an accounting grade, Class 10 CCE.
 
 # 3     Construction Phase
 
@@ -374,26 +374,26 @@ Sometimes the client manages the construction; sometimes he hires a third party 
 
 Construction not only includes the actual erection and installation, it also includes:
 
--   Health, safety and environmental considerations.
--   Scheduling.
--   Procuring materials.
--   Sub-contracting.
--   Project accounting.
--   Quality control.
+*   Health, safety and environmental considerations.
+*   Scheduling.
+*   Procuring materials.
+*   Sub-contracting.
+*   Project accounting.
+*   Quality control.
 
 # 4     Commissioning and Start-Up Phase
 
 Commissioning and start-up follow construction and include:
 
--   Rotation checks.
--   Control and logic checks.
--   Safety device checks.
--   Dry running the equipment; then short runs with material.
--   Making flow adjustments.
--   Operational training (by client).
--   Developing safe work procedures (client).
--   Actual start-up and running at production levels.
--   System performance checks.
+*   Rotation checks.
+*   Control and logic checks.
+*   Safety device checks.
+*   Dry running the equipment; then short runs with material.
+*   Making flow adjustments.
+*   Operational training (by client).
+*   Developing safe work procedures (client).
+*   Actual start-up and running at production levels.
+*   System performance checks.
 
 **GLOSSARY**
 
@@ -461,9 +461,9 @@ WBS                                      �
 
 Other articles related to project implementation can be found on this website, including:
 
--   “So You Want to Build a Biomass Plant”
--   “Vendor Documentation Requirements”
--   “A Practical Guide to Metrication”
+*   “So You Want to Build a Biomass Plant”
+*   “Vendor Documentation Requirements”
+*   “A Practical Guide to Metrication”
 
 Copywrite © 2016
 

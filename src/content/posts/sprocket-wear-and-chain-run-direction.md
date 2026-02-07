@@ -14,7 +14,7 @@ Often, I have come across plants that are experiencing high-wear on their chain 
 
 H-style conveyor chain links have an offset side-bar design with a narrow-end where the barrel attaches to the side-bars, and a wide-end where the side-bars fit outside and are pinned to the narrow-end of the adjacent link.  See the following graphic.
 
-[![](/images/can-am-welded-steel-drag-chains1.jpg)](/images/can-am-welded-steel-drag-chains1.jpg)
+![](/images/can-am-welded-steel-drag-chains1.jpg)
 
 Graphic 1 – H-Style Drag Chain Link
 
@@ -40,7 +40,7 @@ The advantages of running wide-end forward are even greater in longer conveyors.
 
 So, in order to increase sprocket and chain life, H-style conveyor chains should run with the wide-end forward as per the following graphic.
 
-[![](/images/H-Style-Chain-Run-Direction-Graphic-r1-1024x529.jpg)](/images/H-Style-Chain-Run-Direction-Graphic-r1.jpg)
+![](/images/H-Style-Chain-Run-Direction-Graphic-r1-1024x529.jpg)
 
 Graphic 2 – H-style Drag Chains /w Wings Running Wide-End Forward
 
@@ -62,7 +62,7 @@ Chains and sprockets constructed as I’ve described cost more to purchase, but 
 
 See the following photograph showing the chains running in the correct direction with the wide-end forward. This is on a conveyor with high-alloy traction wheels on the head-drum, and an \`S’-drive sprocket underneath the conveyor.
 
-[![](/images/18-002-Hopper-Conveyor-Oct-2005-017.jpg)](/images/18-002-Hopper-Conveyor-Oct-2005-017.jpg)
+![](/images/18-002-Hopper-Conveyor-Oct-2005-017.jpg)
 
 Photo 1 – H-style Drag Chains Running Wide-End Forward (correct direction)
 
@@ -72,11 +72,11 @@ At one biomass-fired power plant, it was observed that one of the chains on a 2-
 
 See the following photographs.
 
-[![](/images/Drag-Chain-Direction-Photo-1-1024x820.jpg)](/images/Drag-Chain-Direction-Photo-1.jpg)
+![](/images/Drag-Chain-Direction-Photo-1-1024x820.jpg)
 
 Photo 2 – Hogfuel Drag Chain on Left is Running Wide-End Forward (correct); Chain on Right is incorrect.
 
-[![](/images/Drag-Chain-Sprocket-Wear-1-1024x768.jpg)](/images/Drag-Chain-Sprocket-Wear-1.jpg)
+![](/images/Drag-Chain-Sprocket-Wear-1-1024x768.jpg)
 
 Photo 3 – Worn \`Hooked’ Sprocket Teeth from Running Narrow-End of Link Forward
 
@@ -84,7 +84,7 @@ The adjacent sprocket with the Wide-End Forward chain showed minimal wear.
 
 Another extreme example of improperly selected H-style box-link drag chain was at another biomass-fired power plant, which was running H-480 chain with the narrow-end forward on a wet bottom-ash chain conveyor.  The extreme conditions wore-out the drive sprocket in less than 6 months. The worn-out, hooked teeth are clearly seen in the following photograph.
 
-[![](/images/DSC00699b-1024x665.jpg)](/images/DSC00699b-scaled.jpg)
+![](/images/DSC00699b-1024x665.jpg)
 
 Photo4 – Extreme Sprocket Wear in 6 Months
 
@@ -98,4 +98,4 @@ He has a keen interest in technologies which recover and utilize waste materials
 
 Paul can be reached at: _Advanced Biomass Consulting Inc._, tel: 1-604-505-5857, or [pjanze@telus.net](mailto:pjanze@telus.net)
 
-[![](/images/H-type-chain-travel-direction-IAnson-1-792x1024.jpg)](/images/H-type-chain-travel-direction-IAnson-1.jpg)
+![](/images/H-type-chain-travel-direction-IAnson-1-792x1024.jpg)

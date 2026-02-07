@@ -15,25 +15,25 @@ Unfortunately, equipment vendors often don’t understand the contractor’s or 
 
 Following are general instructions that should be included in RFQ documents, regarding:
 
--   Drawings for review.
--   Certified for construction drawings.
--   Equipment manuals.
+*   Drawings for review.
+*   Certified for construction drawings.
+*   Equipment manuals.
 
 **Drawings for Review**
 
 The successful Vendor shall submit the following information to the Purchaser for review as follows:
 
--   Dimensioned general arrangement drawings showing the equipment and required clearances.
--   Dimensioned foundation drawings showing: base plate sizes, bolt hole locations, dead loads, live loads, dynamic loads, wind loads, etc.
--   Component sub-assemblies that are necessary for installation and maintenance.
--   Service piping schematics.
--   Hydraulic schematics and power unit assemblies.
--   Process Flow Diagrams PFD’s), Process & Control (P&C’s) or Process & Instrumentation Diagrams (P&ID’s), if applicable.
--   Electrical schematics, wiring diagrams and control panel layouts.
--   Equipment and drive list.
--   Original Equipment Manufacturer’s (OEM) data necessary for engineering.
--   Quantities, sizes and weights of main shipping pieces.
--   Shipping, assembly and erection drawings.
+*   Dimensioned general arrangement drawings showing the equipment and required clearances.
+*   Dimensioned foundation drawings showing: base plate sizes, bolt hole locations, dead loads, live loads, dynamic loads, wind loads, etc.
+*   Component sub-assemblies that are necessary for installation and maintenance.
+*   Service piping schematics.
+*   Hydraulic schematics and power unit assemblies.
+*   Process Flow Diagrams PFD’s), Process & Control (P&C’s) or Process & Instrumentation Diagrams (P&ID’s), if applicable.
+*   Electrical schematics, wiring diagrams and control panel layouts.
+*   Equipment and drive list.
+*   Original Equipment Manufacturer’s (OEM) data necessary for engineering.
+*   Quantities, sizes and weights of main shipping pieces.
+*   Shipping, assembly and erection drawings.
 
 For a sample PFD sketch, click on the following link: [wood-pellets-block-flow-diagram-no-1](http://www.advancedbiomass.com/wp-content/uploads/2016/10/Wood-Pellets-Block-Flow-Diagram-No-1.pdf)
 
@@ -47,9 +47,9 @@ Minor shop drawings are not required for review, unless specifically requested.
 
 Every drawing shall include:
 
--   Client’s name and purchase order number.
--   Client’s drawing number.
--   Client’s equipment name and number.
+*   Client’s name and purchase order number.
+*   Client’s drawing number.
+*   Client’s equipment name and number.
 
 Drawing revisions and resubmittals will continue until the drawings are deemed to be correct by the Purchaser.
 
@@ -57,8 +57,8 @@ Drawing revisions and resubmittals will continue until the drawings are deemed t
 
 Upon satisfactory review by the Purchaser, the Vendor will be requested to submit signed, Certified for Construction (CFC) drawings as follows:
 
--   One CADD plot
--   The final drawing submission shall be electronic AutoCad ’.dwg’ drawing files (latest edition) provided on a DVD.
+*   One CADD plot
+*   The final drawing submission shall be electronic AutoCad ’.dwg’ drawing files (latest edition) provided on a DVD.
 
 **Note**: Drawings must be signed and sealed by a professional engineer registered in the province or state where the installation is being constructed.
 
@@ -68,39 +68,39 @@ Upon satisfactory review by the Purchaser, the Vendor will be requested to submi
 
 Equipment manuals shall have the following format:
 
--   Each piece of equipment shall have its own separate but complete equipment manual.
--   Manuals are to be in 3-ring binders that match standard 3-hole, 8½ x 11 paper.
--   The title of the manual is to be on the front cover and on the leaf. The title must have the name / description of the equipment, equipment number, the final revision date, the vendor’s name, the project title and number.
--   Revision/issue date table at start of manual.
--   Table of contents.
--   Numbers on pages.
--   Dividers that match the table of contents.
+*   Each piece of equipment shall have its own separate but complete equipment manual.
+*   Manuals are to be in 3-ring binders that match standard 3-hole, 8½ x 11 paper.
+*   The title of the manual is to be on the front cover and on the leaf. The title must have the name / description of the equipment, equipment number, the final revision date, the vendor’s name, the project title and number.
+*   Revision/issue date table at start of manual.
+*   Table of contents.
+*   Numbers on pages.
+*   Dividers that match the table of contents.
 
 Equipment manuals shall have the following content:
 
--   Safety information / instructions.
--   Complete equipment specifications.
--   Original OEM data and specifications
--   Brochures with photographs of equipment (where applicable).
--   Design Specifications and Performance Guarantees.
--   Testing information.
--   Installation requirements / instructions.
--   Operating and trouble-shooting instructions.
--   Lubrication, maintenance and repair instructions.
--   Complete parts list including generic equipment numbers. – i.e. for bearings, gearboxes, etc.
--   Spare parts list.
--   Vendor and repair facility contacts, address, phone numbers, email, etc.
--   Copy of all CFC drawings.
--   OEM catalogues with generic descriptions of parts and size designations must have the pertinent information and/or correct size highlighted or underlined. Only the pertinent pages should be included.  Information / pages that are not pertinent should be crossed out or clearly indicated that they are not applicable.
--   Pump and fan files must include the above plus operating curve showing calculated operating point, system calculations and other pertinent information.
+*   Safety information / instructions.
+*   Complete equipment specifications.
+*   Original OEM data and specifications
+*   Brochures with photographs of equipment (where applicable).
+*   Design Specifications and Performance Guarantees.
+*   Testing information.
+*   Installation requirements / instructions.
+*   Operating and trouble-shooting instructions.
+*   Lubrication, maintenance and repair instructions.
+*   Complete parts list including generic equipment numbers. – i.e. for bearings, gearboxes, etc.
+*   Spare parts list.
+*   Vendor and repair facility contacts, address, phone numbers, email, etc.
+*   Copy of all CFC drawings.
+*   OEM catalogues with generic descriptions of parts and size designations must have the pertinent information and/or correct size highlighted or underlined. Only the pertinent pages should be included.  Information / pages that are not pertinent should be crossed out or clearly indicated that they are not applicable.
+*   Pump and fan files must include the above plus operating curve showing calculated operating point, system calculations and other pertinent information.
 
 **Project Drawings for Manuals**
 
--   All drawings must be legible.
--   Drawings must be the most recent certified revision.
--   B size drawings can be used for D size in the manuals, if legible at that size.
--   B size drawings are to be 3-hole punched and inserted into manual.
--   If used, D size drawings must be in protective 3-hole plastic jackets.
+*   All drawings must be legible.
+*   Drawings must be the most recent certified revision.
+*   B size drawings can be used for D size in the manuals, if legible at that size.
+*   B size drawings are to be 3-hole punched and inserted into manual.
+*   If used, D size drawings must be in protective 3-hole plastic jackets.
 
 **Documentation Schedule**
 
