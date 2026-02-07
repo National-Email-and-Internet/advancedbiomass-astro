@@ -178,3 +178,5 @@ After the two sawmill tragedies mentioned above, WorkSafe BC and industry compil
 The BC Forest Safety Council has a Basic Audit and Safety Evaluation (BASE) program for all wood handling operations and in 2011 extended the program to include guidelines for the assessment and safety evaluation of wood pellet mills. "Base Audit, Draft Guidelines Version 2.1, Pellet Industry Addendum".
 
 The Wood Pellet Association of Canada (WPAC) has written a report titled "Determination of Explosibility of Dust Layers in Pellet Manufacturing Plants", which provides guidelines for assessing the risk posed by dust accumulations. While targeted at pellet plants, many of the observations and recommendations are applicable to other wood processing facilities.
+## Images
+

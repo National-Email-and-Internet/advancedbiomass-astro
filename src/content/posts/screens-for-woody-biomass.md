@@ -138,3 +138,5 @@ Paul can be contacted at:
 Advanced Biomass Consulting Inc.
 Tel: 1-604-505-5857
 Email: [pjanze@telus.net](mailto:pjanze@telus.net)
+## Images
+

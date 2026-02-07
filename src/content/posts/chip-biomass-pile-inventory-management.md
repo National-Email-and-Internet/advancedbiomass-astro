@@ -90,3 +90,5 @@ If one really needs to determine the average amount of compaction or average den
 Paul Janzé has more than 30 years experience in engineering design, project management, equipment manufacturing and maintenance, primarily in the forest products and energy industries. His material handling experience includes: biomass handling and processing including forest residuals, logs, lumber, chips, woodwaste, pellets, straw and poultry litter, animal tissue, sludge and biosolids; municipal solid waste (MSW); lime dust, coal and ash handling.
 
 He has a keen interest in technologies which recover and utilize waste materials and convert them into products such as wood pellets. Paul's specialties are fibre flow analysis and mass balances, process optimization and designing novel solutions to complex processing and handling problems.
+## Images
+

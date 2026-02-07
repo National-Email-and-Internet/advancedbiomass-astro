@@ -180,3 +180,5 @@ There are many types of project arrangements; however, following are simple desc
 - The client establishes a single contract with one entity to provide the plant.
 - The Owner's engineer monitors the progress of the selected EPC contractor's work.
 - The Contractor obtains financing and assumes all risk, until the plant is complete, performance requirements have been met and the plant has been turned over to the client.
+## Images
+

@@ -308,3 +308,5 @@ Paul can be reached by email at: [pjanze@telus.net](mailto:jpjanze@telus.net)
 - International Organization for Standardization, ISO 3129:1975 "Wood Sampling Methods and General Requirements for Physical and Mechanical Tests"
 - American Society for Testing and Materials International, ASTM D2234-02, "Standard Practice for Collection of a Gross Sample of Coal"
 - Diewert, Ken, Intest Independent Testing Ltd., "Chip Testing" Presentation to PAPTAC Chip & Wood Quality Course 2001
+## Images
+

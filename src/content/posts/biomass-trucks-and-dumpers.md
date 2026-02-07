@@ -252,3 +252,45 @@ Paul Janzé has more than 30 years experience in engineering design, project man
 He has a keen interest in technologies which recover and utilize waste materials and convert them into products such as wood pellets. Paul's specialties are fibre flow analysis and mass balances, process optimization and designing novel solutions to complex processing and handling problems.
 
 Paul can be reached at: Advanced Biomass Consulting Inc., tel: 604-505-5857, email: pjanze@telus.net
+## Images
+
+![37960004a 216x300](/images/37960004a-216x300.jpg)
+
+![37960004a](/images/37960004a.jpg)
+
+![37960007a 261x300](/images/37960007a-261x300.jpg)
+
+![37960007a](/images/37960007a.jpg)
+
+![37960008a 300x188](/images/37960008a-300x188.jpg)
+
+![37960008a](/images/37960008a.jpg)
+
+![82260003 300x190](/images/82260003-300x190.jpg)
+
+![82260003](/images/82260003.jpg)
+
+![82260037 300x192](/images/82260037-300x192.jpg)
+
+![82260037](/images/82260037.jpg)
+
+![B train End dumper 3 200x200](/images/B-train-End-dumper-3-200x200.jpg)
+
+![B train End dumper 3](/images/B-train-End-dumper-3.jpg)
+
+![B Train Side dumper 300x174](/images/B-Train-Side-dumper-300x174.jpg)
+
+![B Train Side dumper](/images/B-Train-Side-dumper.jpg)
+
+![B Train Trailer Dumper 198x300](/images/B-Train-Trailer-Dumper-198x300.jpg)
+
+![B Train Trailer Dumper](/images/B-Train-Trailer-Dumper.jpg)
+
+![Chip Sampler 4 199x300](/images/Chip-Sampler-4-199x300.jpg)
+
+![Chip Sampler 4](/images/Chip-Sampler-4.jpg)
+
+![CTD 1 Backstop 5 300x223](/images/CTD-1-Backstop-5-300x223.jpg)
+
+![CTD 1 Backstop 5](/images/CTD-1-Backstop-5.jpg)
+
