@@ -39,9 +39,9 @@ const fullUrl = pageUrl || Astro.url.href;
   // Initialize after DOM is ready
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', function() {
-      window.CUSDIS.initial();
+      if (window.CUSDIS) window.CUSDIS.initial();
     });
   } else {
-    window.CUSDIS.initial();
+    if (window.CUSDIS) window.CUSDIS.initial();
   }
 </script>
