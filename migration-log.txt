@@ -1,0 +1,15 @@
+[2026-02-07T01:42:40.275Z] === Starting WordPress to Astro Migration ===
+[2026-02-07T01:42:40.278Z] Fetching posts from WordPress API...
+[2026-02-07T01:42:41.139Z] Fetched 24 posts from API
+[2026-02-07T01:42:41.139Z] Found 5 target posts to migrate
+[2026-02-07T01:42:41.140Z] Processing: sprocket-wear-and-chain-run-direction
+[2026-02-07T01:42:41.164Z] ✅ Created: ./src/content/posts/sprocket-wear-and-chain-run-direction.md (10735 chars)
+[2026-02-07T01:42:41.164Z] Processing: transporting-woody-biomass-by-rail
+[2026-02-07T01:42:41.176Z] ✅ Created: ./src/content/posts/transporting-woody-biomass-by-rail.md (22594 chars)
+[2026-02-07T01:42:41.176Z] Processing: solid-biofuel-standards
+[2026-02-07T01:42:41.180Z] ✅ Created: ./src/content/posts/solid-biofuel-standards.md (3770 chars)
+[2026-02-07T01:42:41.180Z] Processing: project-definition-and-planning
+[2026-02-07T01:42:41.197Z] ✅ Created: ./src/content/posts/project-definition-and-planning.md (31704 chars)
+[2026-02-07T01:42:41.197Z] Processing: vendor-documentation-requirements
+[2026-02-07T01:42:41.201Z] ✅ Created: ./src/content/posts/vendor-documentation-requirements.md (7373 chars)
+[2026-02-07T01:42:41.201Z] === Migration Complete ===

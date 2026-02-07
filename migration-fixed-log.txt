@@ -1,0 +1,177 @@
+[2026-02-07T01:45:36.570Z] === Starting WordPress Image Fix Migration ===
+[2026-02-07T01:45:36.573Z] Fetching posts from WordPress API...
+[2026-02-07T01:45:37.450Z] Fetched 24 posts from API
+[2026-02-07T01:45:37.450Z] Found 5 target posts to fix
+[2026-02-07T01:45:37.450Z] Processing: sprocket-wear-and-chain-run-direction
+[2026-02-07T01:45:37.720Z] 📥 Downloaded: can-am-welded-steel-drag-chains1.jpg
+[2026-02-07T01:45:37.721Z] ⏭️  Skipped (exists): can-am-welded-steel-drag-chains1.jpg
+[2026-02-07T01:45:37.722Z] ⏭️  Skipped (exists): can-am-welded-steel-drag-chains1.jpg
+[2026-02-07T01:45:37.798Z] 📥 Downloaded: can-am-welded-steel-drag-chains1-300x179.jpg
+[2026-02-07T01:45:37.873Z] 📥 Downloaded: can-am-welded-steel-drag-chains1-200x119.jpg
+[2026-02-07T01:45:37.942Z] 📥 Downloaded: H-Style-Chain-Run-Direction-Graphic-r1.jpg
+[2026-02-07T01:45:38.013Z] 📥 Downloaded: H-Style-Chain-Run-Direction-Graphic-r1-1024x529.jpg
+[2026-02-07T01:45:38.013Z] ⏭️  Skipped (exists): H-Style-Chain-Run-Direction-Graphic-r1-1024x529.jpg
+[2026-02-07T01:45:38.089Z] 📥 Downloaded: H-Style-Chain-Run-Direction-Graphic-r1-300x155.jpg
+[2026-02-07T01:45:38.165Z] 📥 Downloaded: H-Style-Chain-Run-Direction-Graphic-r1-768x397.jpg
+[2026-02-07T01:45:38.241Z] 📥 Downloaded: H-Style-Chain-Run-Direction-Graphic-r1-200x103.jpg
+[2026-02-07T01:45:38.242Z] ⏭️  Skipped (exists): H-Style-Chain-Run-Direction-Graphic-r1.jpg
+[2026-02-07T01:45:38.313Z] 📥 Downloaded: 18-002-Hopper-Conveyor-Oct-2005-017.jpg
+[2026-02-07T01:45:38.313Z] ⏭️  Skipped (exists): 18-002-Hopper-Conveyor-Oct-2005-017.jpg
+[2026-02-07T01:45:38.313Z] ⏭️  Skipped (exists): 18-002-Hopper-Conveyor-Oct-2005-017.jpg
+[2026-02-07T01:45:38.386Z] 📥 Downloaded: 18-002-Hopper-Conveyor-Oct-2005-017-300x225.jpg
+[2026-02-07T01:45:38.462Z] 📥 Downloaded: 18-002-Hopper-Conveyor-Oct-2005-017-768x576.jpg
+[2026-02-07T01:45:38.539Z] 📥 Downloaded: 18-002-Hopper-Conveyor-Oct-2005-017-200x150.jpg
+[2026-02-07T01:45:38.609Z] 📥 Downloaded: Drag-Chain-Direction-Photo-1.jpg
+[2026-02-07T01:45:38.679Z] 📥 Downloaded: Drag-Chain-Direction-Photo-1-1024x820.jpg
+[2026-02-07T01:45:38.679Z] ⏭️  Skipped (exists): Drag-Chain-Direction-Photo-1-1024x820.jpg
+[2026-02-07T01:45:38.753Z] 📥 Downloaded: Drag-Chain-Direction-Photo-1-300x240.jpg
+[2026-02-07T01:45:38.829Z] 📥 Downloaded: Drag-Chain-Direction-Photo-1-768x615.jpg
+[2026-02-07T01:45:38.904Z] 📥 Downloaded: Drag-Chain-Direction-Photo-1-200x160.jpg
+[2026-02-07T01:45:38.904Z] ⏭️  Skipped (exists): Drag-Chain-Direction-Photo-1.jpg
+[2026-02-07T01:45:38.974Z] 📥 Downloaded: Drag-Chain-Sprocket-Wear-1.jpg
+[2026-02-07T01:45:39.043Z] 📥 Downloaded: Drag-Chain-Sprocket-Wear-1-1024x768.jpg
+[2026-02-07T01:45:39.044Z] ⏭️  Skipped (exists): Drag-Chain-Sprocket-Wear-1-1024x768.jpg
+[2026-02-07T01:45:39.117Z] 📥 Downloaded: Drag-Chain-Sprocket-Wear-1-300x225.jpg
+[2026-02-07T01:45:39.193Z] 📥 Downloaded: Drag-Chain-Sprocket-Wear-1-768x576.jpg
+[2026-02-07T01:45:39.272Z] 📥 Downloaded: Drag-Chain-Sprocket-Wear-1-1536x1152.jpg
+[2026-02-07T01:45:39.344Z] 📥 Downloaded: Drag-Chain-Sprocket-Wear-1-200x150.jpg
+[2026-02-07T01:45:39.345Z] ⏭️  Skipped (exists): Drag-Chain-Sprocket-Wear-1.jpg
+[2026-02-07T01:45:39.415Z] 📥 Downloaded: DSC00699b-scaled.jpg
+[2026-02-07T01:45:39.485Z] 📥 Downloaded: DSC00699b-1024x665.jpg
+[2026-02-07T01:45:39.485Z] ⏭️  Skipped (exists): DSC00699b-1024x665.jpg
+[2026-02-07T01:45:39.559Z] 📥 Downloaded: DSC00699b-300x195.jpg
+[2026-02-07T01:45:39.635Z] 📥 Downloaded: DSC00699b-768x499.jpg
+[2026-02-07T01:45:39.715Z] 📥 Downloaded: DSC00699b-1536x998.jpg
+[2026-02-07T01:45:39.799Z] 📥 Downloaded: DSC00699b-2048x1331.jpg
+[2026-02-07T01:45:39.873Z] 📥 Downloaded: DSC00699b-200x130.jpg
+[2026-02-07T01:45:39.943Z] 📥 Downloaded: H-type-chain-travel-direction-IAnson-1.jpg
+[2026-02-07T01:45:40.013Z] 📥 Downloaded: H-type-chain-travel-direction-IAnson-1-792x1024.jpg
+[2026-02-07T01:45:40.013Z] ⏭️  Skipped (exists): H-type-chain-travel-direction-IAnson-1-792x1024.jpg
+[2026-02-07T01:45:40.087Z] 📥 Downloaded: H-type-chain-travel-direction-IAnson-1-232x300.jpg
+[2026-02-07T01:45:40.164Z] 📥 Downloaded: H-type-chain-travel-direction-IAnson-1-768x993.jpg
+[2026-02-07T01:45:40.246Z] 📥 Downloaded: H-type-chain-travel-direction-IAnson-1-1188x1536.jpg
+[2026-02-07T01:45:40.331Z] 📥 Downloaded: H-type-chain-travel-direction-IAnson-1-1584x2048.jpg
+[2026-02-07T01:45:40.405Z] 📥 Downloaded: H-type-chain-travel-direction-IAnson-1-155x200.jpg
+[2026-02-07T01:45:40.405Z] ⏭️  Skipped (exists): H-type-chain-travel-direction-IAnson-1.jpg
+[2026-02-07T01:45:40.443Z] ✅ Updated: ./src/content/posts/sprocket-wear-and-chain-run-direction.md (10021 chars)
+[2026-02-07T01:45:40.444Z] Processing: transporting-woody-biomass-by-rail
+[2026-02-07T01:45:40.444Z] ❌ Download failed: Chip-Railcars-300x249.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:40.517Z] 📥 Downloaded: Chip-Railcars-300x249.jpg
+[2026-02-07T01:45:40.593Z] 📥 Downloaded: Chip-Railcars-768x637.jpg
+[2026-02-07T01:45:40.669Z] 📥 Downloaded: Chip-Railcars-1024x849.jpg
+[2026-02-07T01:45:40.744Z] 📥 Downloaded: Chip-Railcars-200x166.jpg
+[2026-02-07T01:45:40.824Z] 📥 Downloaded: Chip-Railcars.jpg
+[2026-02-07T01:45:40.824Z] ❌ Download failed: Rader-Wig-Wag-2a-300x242.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:40.898Z] 📥 Downloaded: Rader-Wig-Wag-2a-300x242.jpg
+[2026-02-07T01:45:40.974Z] 📥 Downloaded: Rader-Wig-Wag-2a-768x620.jpg
+[2026-02-07T01:45:41.048Z] 📥 Downloaded: Rader-Wig-Wag-2a-200x161.jpg
+[2026-02-07T01:45:41.126Z] 📥 Downloaded: Rader-Wig-Wag-2a.jpg
+[2026-02-07T01:45:41.127Z] ❌ Download failed: Sunpine4a-298x300.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:41.201Z] 📥 Downloaded: Sunpine4a-298x300.jpg
+[2026-02-07T01:45:41.275Z] 📥 Downloaded: Sunpine4a-150x150.jpg
+[2026-02-07T01:45:41.350Z] 📥 Downloaded: Sunpine4a-768x773.jpg
+[2026-02-07T01:45:41.426Z] 📥 Downloaded: Sunpine4a-1017x1024.jpg
+[2026-02-07T01:45:41.499Z] 📥 Downloaded: Sunpine4a-200x200.jpg
+[2026-02-07T01:45:41.576Z] 📥 Downloaded: Sunpine4a.jpg
+[2026-02-07T01:45:41.577Z] ❌ Download failed: PGP-Trackmobile-1-300x173.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:41.651Z] 📥 Downloaded: PGP-Trackmobile-1-300x173.jpg
+[2026-02-07T01:45:41.725Z] 📥 Downloaded: PGP-Trackmobile-1-768x444.jpg
+[2026-02-07T01:45:41.801Z] 📥 Downloaded: PGP-Trackmobile-1-1024x592.jpg
+[2026-02-07T01:45:41.876Z] 📥 Downloaded: PGP-Trackmobile-1-200x116.jpg
+[2026-02-07T01:45:41.953Z] 📥 Downloaded: PGP-Trackmobile-1.jpg
+[2026-02-07T01:45:41.954Z] ❌ Download failed: DSC00510a-300x165.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:41.955Z] ⏭️  Skipped (exists): DSC00510a-300x165.jpg
+[2026-02-07T01:45:42.030Z] 📥 Downloaded: DSC00510a-768x421.jpg
+[2026-02-07T01:45:42.107Z] 📥 Downloaded: DSC00510a-1024x562.jpg
+[2026-02-07T01:45:42.181Z] 📥 Downloaded: DSC00510a-200x110.jpg
+[2026-02-07T01:45:42.346Z] 📥 Downloaded: DSC00510a.jpg
+[2026-02-07T01:45:42.347Z] ❌ Download failed: 4-Railcar-Dumper-6a-300x240.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:42.421Z] 📥 Downloaded: 4-Railcar-Dumper-6a-300x240.jpg
+[2026-02-07T01:45:42.496Z] 📥 Downloaded: 4-Railcar-Dumper-6a-768x615.jpg
+[2026-02-07T01:45:42.573Z] 📥 Downloaded: 4-Railcar-Dumper-6a-1024x820.jpg
+[2026-02-07T01:45:42.647Z] 📥 Downloaded: 4-Railcar-Dumper-6a-200x160.jpg
+[2026-02-07T01:45:42.648Z] ❌ Download failed: wood-chips-freight-train-rail-car-unloading-at-wood-chip-terminal-BPYE2J-300x222.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:42.722Z] 📥 Downloaded: wood-chips-freight-train-rail-car-unloading-at-wood-chip-terminal-BPYE2J-300x222.jpg
+[2026-02-07T01:45:42.799Z] 📥 Downloaded: wood-chips-freight-train-rail-car-unloading-at-wood-chip-terminal-BPYE2J-768x568.jpg
+[2026-02-07T01:45:42.876Z] 📥 Downloaded: wood-chips-freight-train-rail-car-unloading-at-wood-chip-terminal-BPYE2J-1024x758.jpg
+[2026-02-07T01:45:42.950Z] 📥 Downloaded: wood-chips-freight-train-rail-car-unloading-at-wood-chip-terminal-BPYE2J-200x148.jpg
+[2026-02-07T01:45:43.027Z] 📥 Downloaded: wood-chips-freight-train-rail-car-unloading-at-wood-chip-terminal-BPYE2J.jpg
+[2026-02-07T01:45:43.028Z] ❌ Download failed: Knuckleboom-Chip-Unloader.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:43.029Z] ❌ Download failed: 9a-Dump-6-225x300.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:43.103Z] 📥 Downloaded: 9a-Dump-6-225x300.jpg
+[2026-02-07T01:45:43.179Z] 📥 Downloaded: 9a-Dump-6-768x1024.jpg
+[2026-02-07T01:45:43.252Z] 📥 Downloaded: 9a-Dump-6-150x200.jpg
+[2026-02-07T01:45:43.331Z] 📥 Downloaded: 9a-Dump-6.jpg
+[2026-02-07T01:45:43.332Z] ❌ Download failed: Fibreco-Roll-over-Railcar-Dumpera-300x196.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:43.405Z] 📥 Downloaded: Fibreco-Roll-over-Railcar-Dumpera-300x196.jpg
+[2026-02-07T01:45:43.480Z] 📥 Downloaded: Fibreco-Roll-over-Railcar-Dumpera-768x503.jpg
+[2026-02-07T01:45:43.556Z] 📥 Downloaded: Fibreco-Roll-over-Railcar-Dumpera-1024x670.jpg
+[2026-02-07T01:45:43.630Z] 📥 Downloaded: Fibreco-Roll-over-Railcar-Dumpera-200x131.jpg
+[2026-02-07T01:45:43.711Z] 📥 Downloaded: Fibreco-Roll-over-Railcar-Dumpera.jpg
+[2026-02-07T01:45:43.712Z] ❌ Download failed: BC_Rail_Gondola1-791x1024.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:43.788Z] 📥 Downloaded: BC_Rail_Gondola1-791x1024.jpg
+[2026-02-07T01:45:43.862Z] 📥 Downloaded: BC_Rail_Gondola1-232x300.jpg
+[2026-02-07T01:45:43.937Z] 📥 Downloaded: BC_Rail_Gondola1-768x994.jpg
+[2026-02-07T01:45:44.011Z] 📥 Downloaded: BC_Rail_Gondola1-155x200.jpg
+[2026-02-07T01:45:44.088Z] 📥 Downloaded: BC_Rail_Gondola1.jpg
+[2026-02-07T01:45:44.101Z] ✅ Updated: ./src/content/posts/transporting-woody-biomass-by-rail.md (22044 chars)
+[2026-02-07T01:45:44.101Z] Processing: solid-biofuel-standards
+[2026-02-07T01:45:44.105Z] ✅ Updated: ./src/content/posts/solid-biofuel-standards.md (3770 chars)
+[2026-02-07T01:45:44.105Z] Processing: project-definition-and-planning
+[2026-02-07T01:45:44.105Z] ❌ Download failed: Diacarbon-162316-000-41103-PFD3-300x271.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:44.178Z] 📥 Downloaded: Diacarbon-162316-000-41103-PFD3-300x271.jpg
+[2026-02-07T01:45:44.253Z] 📥 Downloaded: Diacarbon-162316-000-41103-PFD3-768x694.jpg
+[2026-02-07T01:45:44.328Z] 📥 Downloaded: Diacarbon-162316-000-41103-PFD3-1024x925.jpg
+[2026-02-07T01:45:44.402Z] 📥 Downloaded: Diacarbon-162316-000-41103-PFD3-200x181.jpg
+[2026-02-07T01:45:44.402Z] ❌ Download failed: Clipping-from-SLD_Page_22-296x300.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:44.476Z] 📥 Downloaded: Clipping-from-SLD_Page_22-296x300.jpg
+[2026-02-07T01:45:44.550Z] 📥 Downloaded: Clipping-from-SLD_Page_22-768x778.jpg
+[2026-02-07T01:45:44.624Z] 📥 Downloaded: Clipping-from-SLD_Page_22-1011x1024.jpg
+[2026-02-07T01:45:44.698Z] 📥 Downloaded: Clipping-from-SLD_Page_22-197x200.jpg
+[2026-02-07T01:45:44.772Z] 📥 Downloaded: Clipping-from-SLD_Page_22.jpg
+[2026-02-07T01:45:44.773Z] ❌ Download failed: Clipping-from-Site-Plan-250x300.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:44.847Z] 📥 Downloaded: Clipping-from-Site-Plan-250x300.jpg
+[2026-02-07T01:45:44.921Z] 📥 Downloaded: Clipping-from-Site-Plan-768x922.jpg
+[2026-02-07T01:45:44.996Z] 📥 Downloaded: Clipping-from-Site-Plan-853x1024.jpg
+[2026-02-07T01:45:45.068Z] 📥 Downloaded: Clipping-from-Site-Plan-167x200.jpg
+[2026-02-07T01:45:45.069Z] ❌ Download failed: Clipping-from-GA-Plan-300x289.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:45.143Z] 📥 Downloaded: Clipping-from-GA-Plan-300x289.jpg
+[2026-02-07T01:45:45.221Z] 📥 Downloaded: Clipping-from-GA-Plan-768x739.jpg
+[2026-02-07T01:45:45.297Z] 📥 Downloaded: Clipping-from-GA-Plan-1024x985.jpg
+[2026-02-07T01:45:45.371Z] 📥 Downloaded: Clipping-from-GA-Plan-200x192.jpg
+[2026-02-07T01:45:45.449Z] 📥 Downloaded: Clipping-from-GA-Plan.jpg
+[2026-02-07T01:45:45.449Z] ❌ Download failed: Clipping-from-GA-Elevation-300x213.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:45.523Z] 📥 Downloaded: Clipping-from-GA-Elevation-300x213.jpg
+[2026-02-07T01:45:45.597Z] 📥 Downloaded: Clipping-from-GA-Elevation-768x545.jpg
+[2026-02-07T01:45:45.671Z] 📥 Downloaded: Clipping-from-GA-Elevation-1024x727.jpg
+[2026-02-07T01:45:45.744Z] 📥 Downloaded: Clipping-from-GA-Elevation-200x142.jpg
+[2026-02-07T01:45:45.745Z] ❌ Download failed: CTS-BAL2a-194x300.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:45.819Z] 📥 Downloaded: CTS-BAL2a-194x300.jpg
+[2026-02-07T01:45:45.893Z] 📥 Downloaded: CTS-BAL2a-768x1187.jpg
+[2026-02-07T01:45:45.968Z] 📥 Downloaded: CTS-BAL2a-663x1024.jpg
+[2026-02-07T01:45:46.041Z] 📥 Downloaded: CTS-BAL2a-129x200.jpg
+[2026-02-07T01:45:46.042Z] ❌ Download failed: Equipment-List-Sample-300x194.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:46.116Z] 📥 Downloaded: Equipment-List-Sample-300x194.jpg
+[2026-02-07T01:45:46.191Z] 📥 Downloaded: Equipment-List-Sample-768x497.jpg
+[2026-02-07T01:45:46.266Z] 📥 Downloaded: Equipment-List-Sample-1024x663.jpg
+[2026-02-07T01:45:46.339Z] 📥 Downloaded: Equipment-List-Sample-200x129.jpg
+[2026-02-07T01:45:46.340Z] ❌ Download failed: Sample-Project-Schedule-300x194.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:46.414Z] 📥 Downloaded: Sample-Project-Schedule-300x194.jpg
+[2026-02-07T01:45:46.488Z] 📥 Downloaded: Sample-Project-Schedule-768x497.jpg
+[2026-02-07T01:45:46.564Z] 📥 Downloaded: Sample-Project-Schedule-1024x663.jpg
+[2026-02-07T01:45:46.637Z] 📥 Downloaded: Sample-Project-Schedule-200x129.jpg
+[2026-02-07T01:45:46.638Z] ❌ Download failed: OOM-Costs-r4-232x300.jpg - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:46.711Z] 📥 Downloaded: OOM-Costs-r4-232x300.jpg
+[2026-02-07T01:45:46.786Z] 📥 Downloaded: OOM-Costs-r4-768x994.jpg
+[2026-02-07T01:45:46.861Z] 📥 Downloaded: OOM-Costs-r4-791x1024.jpg
+[2026-02-07T01:45:46.934Z] 📥 Downloaded: OOM-Costs-r4-155x200.jpg
+[2026-02-07T01:45:47.010Z] 📥 Downloaded: OOM-Costs-r4.jpg
+[2026-02-07T01:45:47.027Z] ✅ Updated: ./src/content/posts/project-definition-and-planning.md (31254 chars)
+[2026-02-07T01:45:47.027Z] Processing: vendor-documentation-requirements
+[2026-02-07T01:45:47.027Z] ❌ Download failed: read-operators-manual-notice-sign-s-9890-300x156.png - Protocol "http:" not supported. Expected "https:"
+[2026-02-07T01:45:47.100Z] 📥 Downloaded: read-operators-manual-notice-sign-s-9890-300x156.png
+[2026-02-07T01:45:47.176Z] 📥 Downloaded: read-operators-manual-notice-sign-s-9890-768x399.png
+[2026-02-07T01:45:47.249Z] 📥 Downloaded: read-operators-manual-notice-sign-s-9890-200x104.png
+[2026-02-07T01:45:47.323Z] 📥 Downloaded: read-operators-manual-notice-sign-s-9890.png
+[2026-02-07T01:45:47.332Z] ✅ Updated: ./src/content/posts/vendor-documentation-requirements.md (7323 chars)
+[2026-02-07T01:45:47.332Z] === Image Fix Migration Complete ===
