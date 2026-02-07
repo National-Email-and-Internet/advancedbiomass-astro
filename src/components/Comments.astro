@@ -21,7 +21,6 @@ const fullUrl = pageUrl || Astro.url.href;
 ></div>
 
 <script is:inline>
-  // Initialize Cusdis
   window.CUSDIS_LOCALE = {
     powered_by: 'Comments',
     post_comment: 'Post Comment',
@@ -32,5 +31,17 @@ const fullUrl = pageUrl || Astro.url.href;
     reply_btn: 'Reply',
     sending: 'Sending...',
   };
+  // Prevent auto-init, we'll do it manually after DOM ready
+  window.CUSDIS_PREVENT_INITIAL_RENDER = true;
 </script>
-<script is:inline async defer src="https://comments.natinternet.com/js/cusdis.umd.js"></script>
+<script is:inline src="https://comments.natinternet.com/js/cusdis.umd.js"></script>
+<script is:inline>
+  // Initialize after DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function() {
+      window.CUSDIS.initial();
+    });
+  } else {
+    window.CUSDIS.initial();
+  }
+</script>
