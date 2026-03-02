@@ -35,7 +35,7 @@ The successful Vendor shall submit the following information to the Purchaser fo
 *   Quantities, sizes and weights of main shipping pieces.
 *   Shipping, assembly and erection drawings.
 
-For a sample PFD sketch, click on the following link: [wood-pellets-block-flow-diagram-no-1](http://www.advancedbiomass.com/wp-content/uploads/2016/10/Wood-Pellets-Block-Flow-Diagram-No-1.pdf)
+For a sample PFD sketch, click on the following link: [wood-pellets-block-flow-diagram-no-1](/images/legacy/Wood-Pellets-Block-Flow-Diagram-No-1.pdf)
 
 Drawing submissions are to be electronic AutoCAD \`.dwg.’ file format (latest edition). Any hard copies are to be sent by courier.
 

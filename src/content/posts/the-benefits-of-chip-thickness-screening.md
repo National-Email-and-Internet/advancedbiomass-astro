@@ -43,7 +43,7 @@ The secondary screen(s) separate the remaining accepts chips from the entrapped 
 
 Dirt and grit are concentrated in the fines fraction rejected from the tertiary screen, which is usually diverted to the wastewood hog fuel flow to the biomass boiler.
 
-Refer to the attached typical process flow diagram (PFD).[CTS PFD-001](http://www.advancedbiomass.com/wp-content/uploads/2016/02/CTS-PFD-001.pdf)
+Refer to the attached typical process flow diagram (PFD).[CTS PFD-001](/images/legacy/CTS-PFD-001.pdf)
 
 The percentage of pins in the digester furnish that a Kamyr digester can accept and remain operating satisfactorily, typically varies from 5 to 10%. So, depending upon the amount of pins in the chip flow and the digester’s ability to handle pins, a portion of the pin chips (0 – 100%) is diverted from the tertiary screen to the accepts flow to the pulpmill, while the balance is rejected with the fines. It becomes a fine balance between rejecting too much fibre and maintaining an efficient digester operation.
 
@@ -168,7 +168,7 @@ Target
 
 Note: In order not to reject too much fibre, the pins content in the feed to the digester should be the maximum that the digester can tolerate.
 
-When doing a study assessing the viability of a CTS system, it is necessary to prepare a detailed mass balance, which shows the anticipated system performance based on the average and bad case chip sampling data shown above. See the attached mass balance sample. [CTS BAL2a](http://www.advancedbiomass.com/wp-content/uploads/2016/02/CTS-BAL2a.pdf)
+When doing a study assessing the viability of a CTS system, it is necessary to prepare a detailed mass balance, which shows the anticipated system performance based on the average and bad case chip sampling data shown above. See the attached mass balance sample. [CTS BAL2a](/images/legacy/CTS-BAL2a.pdf)
 
 # 3        BENEFITS OF A CTS SYSTEM
 

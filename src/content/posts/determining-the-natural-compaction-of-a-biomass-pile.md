@@ -47,7 +47,7 @@ If the above method is not practical, you could simulate and estimate the compac
 
 Note: Neither of these methods are suitable for determining the compaction of artificially compacted biomass piles.
 
-Attached is an Excel spreadsheet based on method 2 that I developed to approximate the natural compaction of a small biomass pile.  You are welcome to use it if you need to determine an overall average compaction, but be aware that the result from one pile constructed today could be different from a similar pile constructed next week.  [Pile Compaction Calculation,2](http://www.advancedbiomass.com/wp-content/uploads/2014/11/Pile-Compaction-Calculation2.xlsx)
+Attached is an Excel spreadsheet based on method 2 that I developed to approximate the natural compaction of a small biomass pile.  You are welcome to use it if you need to determine an overall average compaction, but be aware that the result from one pile constructed today could be different from a similar pile constructed next week.  [Pile Compaction Calculation,2](/images/legacy/Pile-Compaction-Calculation2.xlsx)
 
 If you do choose to attempt to calculate pile compaction this way, let me know how it works out.
 

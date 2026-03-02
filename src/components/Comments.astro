@@ -99,20 +99,30 @@ const fullUrl = pageUrl || Astro.url.href;
       }
     });
     
-    observer.observe(document.getElementById('cusdis_thread'), {
-      childList: true,
-      subtree: true
-    });
+    const thread = document.getElementById('cusdis_thread');
+    if (thread) {
+      observer.observe(thread, {
+        childList: true,
+        subtree: true
+      });
+    }
   }
 
   // Initialize everything when DOM is ready
   document.addEventListener('DOMContentLoaded', function() {
     initMosparo();
-    if (window.CUSDIS) {
-      window.CUSDIS.initial();
-    }
     attachSpamProtection();
   });
+  
+  // Wait for Cusdis SDK to load (it has defer)
+  function initCusdis() {
+    if (window.renderCusdis) {
+      window.renderCusdis(document.getElementById('cusdis_thread'));
+    } else {
+      setTimeout(initCusdis, 100);
+    }
+  }
+  initCusdis();
 </script>
 
 <style>

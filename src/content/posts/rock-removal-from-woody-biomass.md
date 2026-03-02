@@ -196,7 +196,7 @@ Destoners work best where the particle size is fairly uniform and the flow is me
 
 The inside of the destoner is under a positive pressure from the fluidizing air / air knife fan(s). To minimize fugitive dusting, it is recommended that the air be recirculated from the destoner hood back to the fan inlet, first passing through a high efficiency cyclone to clean the air. Additionally, the destoner hood should be connected to a dust extractor / collector to remove some of the air and keep the destoner under a negative pressure, thereby reducing fugitive dusting.
 
-Refer to the attached typical destoner process flow diagram.[Typical Destoner PFD-001](http://www.advancedbiomass.com/wp-content/uploads/2011/01/Typical-Destoner-PFD-001.pdf)
+Refer to the attached typical destoner process flow diagram.[Typical Destoner PFD-001](/images/legacy/Typical-Destoner-PFD-001.pdf)
 
 **Dust Control**
 
